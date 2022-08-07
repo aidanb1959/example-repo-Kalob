@@ -1,6 +1,6 @@
 # Example Repo Title
 Hello world!!!! 
-
+Aw, krapola!
 Second change!
 
 # New version of this course (2020)
